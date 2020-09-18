@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "anfapp-8116b"
+  },
+  "targets": {
+    "anfapp-8116b": {
+      "hosting": {
+        "anfweb": [
+          "anfweb"
+        ]
+      }
+    }
+  }
+}
